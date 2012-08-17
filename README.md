@@ -6,7 +6,7 @@ chiffres-solver
 What is it?
 ===========
 
-There's a Freanch TV game called  "Des Chiffres et des Lettres", in which there are wor games, and number games.
+There's a Freanch TV game called  "Des Chiffres et des Lettres", in which there are word games, and number games.
 This code is made to solve the number game. The players are given 6 numbers
 (generally ranging from to 10 and some big common numbers like 11, 25, 50, 75, 100, 150, etc. to make it easier)
 and a bigger number (generally a 3-digit number). The objective is to figure out the shortest combination
