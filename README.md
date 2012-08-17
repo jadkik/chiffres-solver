@@ -49,7 +49,7 @@ Another possible technique would be to go from the target, and simplify to get t
 Using
 =====
 
-Install [http://www.python.org Python] v2.7 then run `python main.py`
+Install [Python](http://www.python.org) v2.7 then run `python main.py`
 
 Choose a language, either `fr` or `en`. Then keep writing the numbers, and when you're done, leave empty and press enter.
 
@@ -58,6 +58,8 @@ You will be asked for the target number. Type it and press enter, and then wait,
 
 Examples
 ========
+
+Example 1:
 
     Numero suivant (laisser vide si complet)? 10
     Numero suivant (laisser vide si complet)? 25
@@ -90,6 +92,8 @@ Examples
     Trouve 21240 solutions en 2m31s.
     ********************
 
+Example 2:
+
     Numero suivant (laisser vide si complet)? 75
     Numero suivant (laisser vide si complet)? 100
     Numero suivant (laisser vide si complet)? 6
@@ -114,6 +118,8 @@ Examples
     Trouve 936 solutions en 2m53s.
     ********************
 
+Example 3:
+
     Numero suivant (laisser vide si complet)? 3
     Numero suivant (laisser vide si complet)? 5
     Numero suivant (laisser vide si complet)? 7
@@ -126,6 +132,8 @@ Examples
     Pas de solution!
     Trouve 0 solutions en 2m45s.
     ********************
+
+Example 4:
 
     Numero suivant (laisser vide si complet)? 4
     Numero suivant (laisser vide si complet)? 7
